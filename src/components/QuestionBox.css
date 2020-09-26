@@ -1,0 +1,18 @@
+.question {
+    margin-top: 5px;
+    background-color: turquoise;
+    border-radius: 2px;
+    min-height: 50px;
+}
+
+.answer {
+    background-color: white;
+    background-color: turquoise;
+}
+
+.answer>button {
+    background-color: orange;
+    padding: 5px 10px;
+    margin: 0 5px;
+    border-radius: 5px;
+}

@@ -1,0 +1,22 @@
+.container {
+    width: 70vw;
+    min-height: 40vw;
+    border: 1px solid black;
+}
+
+.title {
+    width: 96%;
+    height: 7%;
+    text-align: center;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    margin: 2%;
+    line-height: 200%;
+}
+
+.boxQuestion {
+    width: 96%;
+    min-height: 7%;
+    margin: 2%;
+}
